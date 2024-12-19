@@ -1,0 +1,4 @@
+!run in command prompt terminal
+
+python -m pip install --user flask flask-cors sqlite3 pandas
+python -m pip install --user fastapi uvicorn flask-cors
